@@ -1,0 +1,3 @@
+step 1: D:/anaconda/Scripts/activate
+step 2: conda activate venv/
+training execution step : python src/pipelines/training_pipeline.py
